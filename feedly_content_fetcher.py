@@ -3,8 +3,8 @@ import json
 import sqlite3
 
 # Your Feedly user ID and access token
-user_id = '6bda7e9d-c3fd-4b80-ab38-403a02a8b06d'
-access_token = 'A-GCTZQ7wBsmQvqB8wormk9OcoNXH6Pc0kjGoHvAWh6xm1q9y15ZW1rBCdJEShJUgiNigs09jgIMUoiiAWna-5uGuSCO4OKOE__OP_zlt-tI7_5VGQhZ2sMKhuotL8Q2wh0ylRmmUFhvsRBe1zhAU9liovZCftXD8APXTpc3m-TMjZLPvrwdZs3qHkbQFQLyoRAZREDzyXkdpjStYYB8ePSJLbfurKAf5Uy_-DnFdsP9OhAZbPz6JhzE1-5X_g:feedlydev'
+user_id = 'user_id'
+access_token = 'access_token'
 
 
 # Function to get user profile
